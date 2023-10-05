@@ -15,7 +15,6 @@ require_once('helper.php');
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>html,body{background:black;margin:0;padding:0;}</style>
   </HEAD>
   <BODY>
     <h1>Fake abortion clinics</h1>
