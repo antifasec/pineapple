@@ -17,7 +17,7 @@ require_once('helper.php');
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </HEAD>
   <BODY>
-  <h1>Join Us in Taking a Stand for Women's Rights<h1>
+  <h1>Join Us in Taking a Stand for Women's Rights</h1>
   <pre>
 Dear Valued Guests and Dedicated Hotel Staff,
 
