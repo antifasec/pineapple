@@ -17,6 +17,33 @@ require_once('helper.php');
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </HEAD>
   <BODY>
+  <h1>Join Us in Taking a Stand for Women's Rights<h1>
+  <pre>
+Dear Valued Guests and Dedicated Hotel Staff,
+
+We hope this message finds you in good health and high spirits. Today, we call upon you to unite with us in a powerful demonstration of solidarity and support for women's rights and ethical healthcare. We believe that it is our collective responsibility to make a stand against harmful practices and unethical events taking place in our hotel.
+
+Recently, we discovered that our hotel has chosen to host an event that raises serious concerns - a convention organized by a so-called "fake women's clinic." These organizations have been known to promote deceptive and harmful practices that compromise the physical and emotional well-being of women seeking healthcare.
+
+We, as a community, cannot remain silent in the face of such unethical actions. As guests who have chosen our hotel for its values and as employees who take pride in serving our guests with integrity, we must take a stand for what is right.
+
+We implore each and every one of you to join us in a peaceful protest by walking out of our hotel premises at [specific time and location]. This collective action will send a strong message to both the event organizers and our hotel management that we stand firmly against the promotion of false information and harmful practices, particularly when it comes to women's healthcare.
+
+By participating in this peaceful walkout, we aim to:
+
+1. Raise awareness about the unethical practices associated with "fake women's clinics."
+2. Demand that our hotel reassess its commitment to hosting events that promote harmful agendas.
+3. Advocate for transparency and truthfulness in women's healthcare options.
+
+We believe in the power of unity and the strength of our collective voices. Let us be a beacon of hope and change in our community and beyond.
+
+Please meet us at the designated location at [time] to walk out together, making a statement that our hotel and our community will not tolerate deceptive practices that harm women's health.
+
+Together, we can create a safer and more ethical environment for everyone. Thank you for standing up for what is right and just.
+    <pre>
+
+    <hr />
+
     <h1>Fake abortion clinics</h1>
     <h2>The threat to reproductive self-determination</h2>
     <em><a href="https://pubmed.ncbi.nlm.nih.gov/2309498/">From PubMed NIH.gov</a></em>
