@@ -18,9 +18,8 @@ require_once('helper.php');
   </HEAD>
   <BODY>
   <h1>Join Us in Taking a Stand for Women's Rights</h1>
+  <h2>Dear Valued Guests and Dedicated Hotel Staff</h2>
   <pre>
-Dear Valued Guests and Dedicated Hotel Staff,
-
 We hope this message finds you in good health and high spirits. Today, we call upon you to unite with us in a powerful demonstration of solidarity and support for women's rights and ethical healthcare. We believe that it is our collective responsibility to make a stand against harmful practices and unethical events taking place in our hotel.
 
 Recently, we discovered that our hotel has chosen to host an event that raises serious concerns - a convention organized by a so-called "fake women's clinic." These organizations have been known to promote deceptive and harmful practices that compromise the physical and emotional well-being of women seeking healthcare.
